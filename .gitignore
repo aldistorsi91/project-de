@@ -1,4 +1,13 @@
+# Bytecode cache
 __pycache__/
+
+# Virtual environment
 .env/
-*.csv
+env/
+
+# Jupyter autosave files
 *.ipynb_checkpoints/
+
+# Optional: ignore temp data (uncomment if needed)
+# *.csv
+
