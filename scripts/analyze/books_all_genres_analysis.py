@@ -3,7 +3,7 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Load data
-df = pd.read_csv("data/books_all_genres.csv")
+df = pd.read_csv("data/booksdb_all_genres.csv")
 
 # Bersihkan kolom Harga dari simbol £ dan ubah ke float
 df['Harga'] = df['Harga'].astype(str).str.replace('£', '', regex=False).astype(float)
@@ -38,3 +38,11 @@ keyword_cols = [col for col in df.columns if col.startswith("Keyword_")]
 for col in keyword_cols:
     bool_col = df[col].fillna(False).astype(bool)
     print(f"{col}: {bool_col.sum()}")
+
+top5_df = pd.DataFrame()
+
+for kategori in df['Kategori'].unique():
+    top5 = df[df['Kategori'] == kategori].sort_values(by='Harga', ascending=False).head(1)
+    top5_df = pd.concat([top5_df, top5])
+
+top5_df.to_csv("output/tables/each_genre_top_book.csv", index=False)
