@@ -1,7 +1,7 @@
 def enrich_keywords(df, keywords):
-    for word in keywords:
-        col_name = f"Keyword_{word.capitalize()}"
-        df[col_name] = df["Judul"].str.lower().str.contains(word)
+    for kw in keywords:
+        col_name = f"Keyword_{kw.capitalize()}"
+        df[col_name] = df["Judul"].str.lower().str.contains(kw)
     return df
 
 def enrich_features(df):

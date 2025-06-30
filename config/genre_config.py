@@ -1,33 +1,22 @@
-genres = {
-    "fantasy": "http://books.toscrape.com/catalogue/category/books/fantasy_19/",
-    "history": "http://books.toscrape.com/catalogue/category/books/history_32/",
-    "scifi": "http://books.toscrape.com/catalogue/category/books/science-fiction_16/",
-    "romance": "http://books.toscrape.com/catalogue/category/books/romance_8/",
-}
-
-keywords = {
-    "fantasy": {
-        "Keyword_Magic": "magic",
-        "Keyword_King": "king",
-        "Keyword_Dragon": "dragon",
-        "Keyword_Sword": "sword"
+genres = [
+    {
+        "name": "fantasy",
+        "url": "http://books.toscrape.com/catalogue/category/books/fantasy_19/",
+        "keywords": ["magic", "king", "dragon", "sword"]
     },
-    "history": {
-        "Keyword_War": "war",
-        "Keyword_History": "history",
-        "Keyword_America": "america",
-        "Keyword_Glory": "glory"
+    {
+        "name": "history",
+        "url": "http://books.toscrape.com/catalogue/category/books/history_32/",
+        "keywords": ["war", "history", "america"]
     },
-    "scifi": {  # <- disamakan dengan genres
-        "Keyword_Space": "space",
-        "Keyword_Alien": "alien",
-        "Keyword_Time": "time",
-        "Keyword_Future": "future"
+    {
+        "name": "science_fiction",
+        "url": "http://books.toscrape.com/catalogue/category/books/science-fiction_16/",
+        "keywords": ["space", "alien", "robot"]
     },
-    "romance": {
-        "Keyword_Love": "love",
-        "Keyword_Affair": "affair",
-        "Keyword_Forever": "forever",
-        "Keyword_Wedding": "wedding"
-    }
-}
+    {
+        "name": "romance",
+        "url": "http://books.toscrape.com/catalogue/category/books/romance_8/",
+        "keywords": ["love", "affair", "wedding"]
+    },
+]

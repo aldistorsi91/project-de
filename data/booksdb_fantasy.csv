@@ -1,49 +1,49 @@
-Judul,Harga,Kategori,Keyword_H,Keyword_T,Keyword_P,Keyword_:,Keyword_/,Keyword_B,Keyword_O,Keyword_K,Keyword_S,Keyword_.,Keyword_C,Keyword_R,Keyword_A,Keyword_E,Keyword_M,Keyword_L,Keyword_G,Keyword_U,Keyword_Y,Keyword_F,Keyword_N,Keyword__,Keyword_1,Keyword_9,Judul_Length,Jumlah_Kata_Judul,Is_Series,Contains_Colon
-Unicorn Tracks,18.78,Fantasy,False,True,False,False,False,False,True,True,True,True,True,True,True,False,False,False,False,True,False,False,True,False,False,False,14,2,False,False
-"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,Fantasy,False,True,False,False,False,False,True,False,True,True,True,False,True,True,True,True,True,True,False,False,True,False,False,False,45,7,True,False
-Princess Between Worlds (Wide-Awake Princess #5),13.34,Fantasy,False,True,True,False,False,True,True,True,True,True,True,True,True,True,False,True,False,False,False,False,True,False,False,False,48,6,True,False
-Masks and Shadows,56.4,Fantasy,True,False,False,False,False,False,True,True,True,True,False,False,True,False,True,False,False,False,False,False,True,False,False,False,17,3,False,False
-Crown of Midnight (Throne of Glass #2),43.29,Fantasy,True,True,False,False,False,False,True,False,True,True,True,True,True,True,True,True,True,False,False,True,True,False,False,False,38,7,True,False
-"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,Fantasy,True,True,True,True,False,True,True,True,True,True,False,True,True,True,True,True,False,False,False,False,True,False,False,False,74,13,True,True
-A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,Fantasy,True,True,False,False,False,False,True,False,True,True,True,True,True,True,False,False,False,True,False,True,True,False,True,False,60,13,True,False
-Throne of Glass (Throne of Glass #1),35.07,Fantasy,True,True,False,False,False,False,True,False,True,True,False,True,True,True,False,True,True,False,False,True,True,False,True,False,36,7,True,False
-The Glittering Court (The Glittering Court #1),44.28,Fantasy,True,True,False,False,False,False,True,False,False,True,True,True,False,True,False,True,True,True,False,False,True,False,True,False,46,7,True,False
-Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,Fantasy,True,True,True,False,False,False,True,False,True,True,True,True,True,True,True,True,True,True,True,False,True,False,False,False,51,7,True,False
-The Star-Touched Queen,46.02,Fantasy,True,True,False,False,False,False,True,False,True,True,True,True,True,True,False,False,False,True,False,False,True,False,False,False,22,3,False,False
-The Hidden Oracle (The Trials of Apollo #1),52.26,Fantasy,True,True,True,False,False,False,True,False,True,True,True,True,True,True,False,True,False,False,False,True,True,False,True,False,43,8,True,False
-The Bane Chronicles (The Bane Chronicles #1-11),44.73,Fantasy,True,True,False,False,False,True,True,False,True,True,True,True,True,True,False,True,False,False,False,False,True,False,True,False,47,7,True,False
-Island of Dragons (Unwanteds #7),29.65,Fantasy,False,True,False,False,False,False,True,False,True,True,False,True,True,True,False,True,True,True,False,True,True,False,False,False,32,5,True,False
-Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,Fantasy,True,True,True,True,False,True,True,True,True,True,True,True,True,True,True,True,True,False,True,False,True,False,True,False,104,16,True,True
-City of Glass (The Mortal Instruments #3),56.02,Fantasy,True,True,False,False,False,False,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False,False,41,7,True,False
-Searching for Meaning in Gailana,38.73,Fantasy,True,False,False,False,False,False,True,False,True,True,True,True,True,True,True,True,True,False,False,True,True,False,False,False,32,5,False,False
-The Star-Touched Queen,32.3,Fantasy,True,True,False,False,False,False,True,False,True,True,True,True,True,True,False,False,False,True,False,False,True,False,False,False,22,3,False,False
-A Shard of Ice (The Black Symphony Saga #1),56.63,Fantasy,True,True,True,False,False,True,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,False,True,False,43,9,True,False
-King's Folly (The Kinsman Chronicles #1),39.61,Fantasy,True,True,False,False,False,False,True,True,True,True,True,True,True,True,True,True,True,False,True,True,True,False,True,False,40,6,True,False
-Every Heart a Doorway (Every Heart A Doorway #1),12.16,Fantasy,True,True,False,False,False,False,True,False,False,True,False,True,True,True,False,False,False,False,True,False,False,False,True,False,48,9,True,False
-A Gathering of Shadows (Shades of Magic #2),44.81,Fantasy,True,True,False,False,False,False,True,False,True,True,True,True,True,True,True,False,True,False,False,True,True,False,False,False,43,8,True,False
-The Raven Boys (The Raven Cycle #1),57.74,Fantasy,True,True,False,False,False,True,True,False,True,True,True,True,True,True,False,True,False,False,True,False,True,False,True,False,35,7,True,False
-The False Prince (The Ascendance Trilogy #1),56.0,Fantasy,True,True,True,False,False,False,True,False,True,True,True,True,True,True,False,True,True,False,True,True,True,False,True,False,44,7,True,False
-Tell the Wind and Fire,45.51,Fantasy,True,True,False,False,False,False,False,False,False,True,False,True,True,True,False,True,False,False,False,True,True,False,False,False,22,5,False,False
-A Feast for Crows (A Song of Ice and Fire #4),17.21,Fantasy,False,True,False,False,False,False,True,False,True,True,True,True,True,True,False,False,True,False,False,True,True,False,False,False,45,11,True,False
-The Demonists (Demonist #1),52.11,Fantasy,True,True,False,False,False,False,True,False,True,True,False,False,False,True,True,False,False,False,False,False,True,False,True,False,27,4,True,False
-The Beast (Black Dagger Brotherhood #14),46.08,Fantasy,True,True,False,False,False,True,True,True,True,True,True,True,True,True,False,True,True,False,False,False,False,False,True,False,40,6,True,False
-Paper and Fire (The Great Library #2),49.45,Fantasy,True,True,True,False,False,True,False,False,False,True,False,True,True,True,False,True,True,False,True,True,True,False,False,False,37,7,True,False
-Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,Fantasy,True,True,True,False,False,False,True,False,False,True,False,True,True,True,False,False,False,False,True,True,True,False,False,False,59,11,True,False
-Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,Fantasy,True,True,True,False,False,True,True,False,False,True,True,True,True,True,False,True,False,False,True,True,True,False,False,False,56,9,True,False
-Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,Fantasy,True,True,True,False,False,True,True,False,True,True,True,True,True,True,True,False,False,False,True,True,True,False,False,False,57,10,True,False
-The Rose & the Dagger (The Wrath and the Dawn #2),58.64,Fantasy,True,True,False,False,False,False,True,False,True,True,False,True,True,True,False,False,True,False,False,False,True,False,False,False,49,11,True,False
-Soldier (Talon #3),24.72,Fantasy,False,True,False,False,False,False,True,False,True,True,False,True,True,True,False,True,False,False,False,False,True,False,False,False,18,3,True,False
-Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,Fantasy,True,True,True,False,True,True,True,True,True,True,False,True,True,True,True,True,True,False,False,True,True,False,True,False,56,10,True,False
-Heir to the Sky,44.07,Fantasy,True,True,False,False,False,False,True,True,True,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,15,4,False,False
-Eragon (The Inheritance Cycle #1),43.87,Fantasy,True,True,False,False,False,False,True,False,False,True,True,True,True,True,False,True,True,False,True,False,True,False,True,False,33,5,True,False
-Darkfever (Fever #1),56.02,Fantasy,False,False,False,False,False,False,False,True,False,True,False,True,True,True,False,False,False,False,False,True,False,False,True,False,20,3,True,False
-Ash,22.06,Fantasy,True,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,3,1,False,False
-A Storm of Swords (A Song of Ice and Fire #3),31.22,Fantasy,False,True,False,False,False,False,True,False,True,True,True,True,True,True,True,False,True,False,False,True,True,False,False,False,45,11,True,False
-Vampire Girl (Vampire Girl #1),53.82,Fantasy,False,False,True,False,False,False,False,False,False,True,False,True,True,True,True,True,True,False,False,False,False,False,True,False,30,5,True,False
-The Silent Twin (Detective Jennifer Knight #3),36.25,Fantasy,True,True,False,False,False,False,False,True,True,True,True,True,False,True,False,True,True,False,False,True,True,False,False,False,46,7,True,False
-The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,Fantasy,True,True,False,False,False,False,True,False,False,True,False,True,True,True,True,False,False,False,False,False,True,False,True,False,51,11,True,False
-Sister Sable (The Mad Queen #1),13.33,Fantasy,True,True,False,False,False,True,False,False,True,True,False,True,True,True,True,True,False,True,False,False,True,False,True,False,31,6,True,False
-Shadow Rites (Jane Yellowrock #10),21.72,Fantasy,True,True,False,False,False,False,True,True,True,True,True,True,True,True,False,True,False,False,True,False,True,False,True,False,34,5,True,False
-Origins (Alphas 0.5),28.99,Fantasy,True,False,True,False,False,False,True,False,True,True,False,True,True,False,False,True,True,False,False,False,True,False,False,False,20,3,False,False
-One Second (Seven #7),52.94,Fantasy,False,False,False,False,False,False,True,False,True,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,21,4,True,False
-Myriad (Prentor #1),58.75,Fantasy,False,True,True,False,False,False,True,False,False,True,False,True,True,True,True,False,False,False,True,False,True,False,True,False,19,3,True,False
+Judul,Harga,Kategori,Keyword_Magic,Keyword_King,Keyword_Dragon,Keyword_Sword,Judul_Length,Jumlah_Kata_Judul,Is_Series,Contains_Colon
+Unicorn Tracks,18.78,Fantasy,False,False,False,False,14,2,False,False
+"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,Fantasy,False,False,False,False,45,7,True,False
+Princess Between Worlds (Wide-Awake Princess #5),13.34,Fantasy,False,False,False,False,48,6,True,False
+Masks and Shadows,56.4,Fantasy,False,False,False,False,17,3,False,False
+Crown of Midnight (Throne of Glass #2),43.29,Fantasy,False,False,False,False,38,7,True,False
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,Fantasy,False,False,False,False,74,13,True,True
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,Fantasy,False,False,False,False,60,13,True,False
+Throne of Glass (Throne of Glass #1),35.07,Fantasy,False,False,False,False,36,7,True,False
+The Glittering Court (The Glittering Court #1),44.28,Fantasy,False,False,False,False,46,7,True,False
+Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,Fantasy,False,False,False,False,51,7,True,False
+The Star-Touched Queen,46.02,Fantasy,False,False,False,False,22,3,False,False
+The Hidden Oracle (The Trials of Apollo #1),52.26,Fantasy,False,False,False,False,43,8,True,False
+The Bane Chronicles (The Bane Chronicles #1-11),44.73,Fantasy,False,False,False,False,47,7,True,False
+Island of Dragons (Unwanteds #7),29.65,Fantasy,False,False,True,False,32,5,True,False
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,Fantasy,True,False,False,False,104,16,True,True
+City of Glass (The Mortal Instruments #3),56.02,Fantasy,False,False,False,False,41,7,True,False
+Searching for Meaning in Gailana,38.73,Fantasy,False,False,False,False,32,5,False,False
+The Star-Touched Queen,32.3,Fantasy,False,False,False,False,22,3,False,False
+A Shard of Ice (The Black Symphony Saga #1),56.63,Fantasy,False,False,False,False,43,9,True,False
+King's Folly (The Kinsman Chronicles #1),39.61,Fantasy,False,True,False,False,40,6,True,False
+Every Heart a Doorway (Every Heart A Doorway #1),12.16,Fantasy,False,False,False,False,48,9,True,False
+A Gathering of Shadows (Shades of Magic #2),44.81,Fantasy,True,False,False,False,43,8,True,False
+The Raven Boys (The Raven Cycle #1),57.74,Fantasy,False,False,False,False,35,7,True,False
+The False Prince (The Ascendance Trilogy #1),56.0,Fantasy,False,False,False,False,44,7,True,False
+Tell the Wind and Fire,45.51,Fantasy,False,False,False,False,22,5,False,False
+A Feast for Crows (A Song of Ice and Fire #4),17.21,Fantasy,False,False,False,False,45,11,True,False
+The Demonists (Demonist #1),52.11,Fantasy,False,False,False,False,27,4,True,False
+The Beast (Black Dagger Brotherhood #14),46.08,Fantasy,False,False,False,False,40,6,True,False
+Paper and Fire (The Great Library #2),49.45,Fantasy,False,False,False,False,37,7,True,False
+Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,Fantasy,False,False,False,False,59,11,True,False
+Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,Fantasy,False,False,False,False,56,9,True,False
+Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,Fantasy,False,False,False,False,57,10,True,False
+The Rose & the Dagger (The Wrath and the Dawn #2),58.64,Fantasy,False,False,False,False,49,11,True,False
+Soldier (Talon #3),24.72,Fantasy,False,False,False,False,18,3,True,False
+Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,Fantasy,False,False,False,False,56,10,True,False
+Heir to the Sky,44.07,Fantasy,False,False,False,False,15,4,False,False
+Eragon (The Inheritance Cycle #1),43.87,Fantasy,False,False,False,False,33,5,True,False
+Darkfever (Fever #1),56.02,Fantasy,False,False,False,False,20,3,True,False
+Ash,22.06,Fantasy,False,False,False,False,3,1,False,False
+A Storm of Swords (A Song of Ice and Fire #3),31.22,Fantasy,False,False,False,True,45,11,True,False
+Vampire Girl (Vampire Girl #1),53.82,Fantasy,False,False,False,False,30,5,True,False
+The Silent Twin (Detective Jennifer Knight #3),36.25,Fantasy,False,False,False,False,46,7,True,False
+The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,Fantasy,False,False,False,False,51,11,True,False
+Sister Sable (The Mad Queen #1),13.33,Fantasy,False,False,False,False,31,6,True,False
+Shadow Rites (Jane Yellowrock #10),21.72,Fantasy,False,False,False,False,34,5,True,False
+Origins (Alphas 0.5),28.99,Fantasy,False,False,False,False,20,3,False,False
+One Second (Seven #7),52.94,Fantasy,False,False,False,False,21,4,True,False
+Myriad (Prentor #1),58.75,Fantasy,False,False,False,False,19,3,True,False

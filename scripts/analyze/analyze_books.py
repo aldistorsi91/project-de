@@ -3,14 +3,14 @@ import pandas as pd
 # Load all-genres csv
 fantasy = pd.read_csv("data/booksdb_fantasy.csv")
 history = pd.read_csv("data/booksdb_history.csv")
-scifi = pd.read_csv("data/booksdb_scifi.csv")
+science_fiction = pd.read_csv("data/booksdb_science_fiction.csv")
 romance = pd.read_csv("data/booksdb_romance.csv")
 
 # Join
-df = pd.concat([fantasy, history, scifi, romance], ignore_index=True)
+df = pd.concat([fantasy, history, science_fiction, romance], ignore_index=True)
 
 # Pastikan semua 'Harga' udah dibersihkan dari simbol £ dan dikonversi ke float
-for df_ in [fantasy, history, scifi, romance]:
+for df_ in [fantasy, history, science_fiction, romance]:
     df_['Harga'] = df_['Harga'].astype(str).str.replace('£', '').astype(float)
 
 print(df_['Harga'].unique())
