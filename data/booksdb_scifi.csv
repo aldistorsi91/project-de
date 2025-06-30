@@ -1,17 +1,17 @@
-Judul,Harga,Kategori,Keyword_Space,Keyword_Alien,Keyword_Time,Keyword_Future,Judul_Length,Jumlah_Kata_Judul,Is_Series,Contains_Colon
-Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,Scifi,False,False,False,False,53,7,False,True
-Join,35.67,Scifi,False,False,False,False,4,1,False,False
-"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,Scifi,False,False,False,False,88,13,True,True
-The Project,10.65,Scifi,False,False,False,False,11,2,False,False
-Soft Apocalypse,26.12,Scifi,False,False,False,False,15,2,False,False
-Sleeping Giants (Themis Files #1),48.74,Scifi,False,False,False,False,33,5,True,False
-Arena,21.36,Scifi,False,False,False,False,5,1,False,False
-Foundation (Foundation (Publication Order) #1),32.42,Scifi,False,False,False,False,46,5,True,False
-The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,Scifi,False,False,False,False,79,14,True,False
-Ready Player One,19.07,Scifi,False,False,False,False,16,3,False,False
-"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,Scifi,False,False,False,False,71,11,True,False
-Dune (Dune #1),54.86,Scifi,False,False,False,False,14,3,True,False
-Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,Scifi,False,False,False,False,54,9,True,False
-Three Wishes (River of Time: California #1),44.18,Scifi,False,False,True,False,43,7,True,True
-The Last Girl (The Dominion Trilogy #1),36.26,Scifi,False,False,False,False,39,7,True,False
-Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,Scifi,False,False,False,False,56,8,True,False
+Judul,Harga,Kategori,Keyword_H,Keyword_T,Keyword_P,Keyword_:,Keyword_/,Keyword_B,Keyword_O,Keyword_K,Keyword_S,Keyword_.,Keyword_C,Keyword_R,Keyword_A,Keyword_E,Keyword_M,Keyword_L,Keyword_G,Keyword_U,Keyword_Y,Keyword_I,Keyword_N,Keyword_-,Keyword_F,Keyword__,Keyword_1,Keyword_6,Judul_Length,Jumlah_Kata_Judul,Is_Series,Contains_Colon
+Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,Scifi,True,True,False,True,False,True,True,False,True,True,True,True,True,True,True,False,False,False,False,True,True,True,True,False,True,False,53,7,False,True
+Join,35.67,Scifi,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,4,1,False,False
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,Scifi,True,True,True,True,False,False,True,True,True,True,False,True,True,True,True,True,False,False,True,True,True,False,False,False,False,False,88,13,True,True
+The Project,10.65,Scifi,True,True,True,False,False,False,True,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,11,2,False,False
+Soft Apocalypse,26.12,Scifi,False,True,True,False,False,False,True,False,True,True,True,False,True,True,False,True,False,False,True,False,False,False,True,False,False,False,15,2,False,False
+Sleeping Giants (Themis Files #1),48.74,Scifi,True,True,True,False,False,False,False,False,True,True,False,False,True,True,True,True,True,False,False,True,True,False,True,False,True,False,33,5,True,False
+Arena,21.36,Scifi,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False,False,False,True,False,False,False,False,False,5,1,False,False
+Foundation (Foundation (Publication Order) #1),32.42,Scifi,False,True,True,False,False,True,True,False,False,True,True,True,True,True,False,True,False,True,False,True,True,False,True,False,True,False,46,5,True,False
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,Scifi,True,True,False,False,False,False,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,False,True,False,False,False,79,14,True,False
+Ready Player One,19.07,Scifi,False,False,True,False,False,False,True,False,False,True,False,True,True,True,False,True,False,False,True,False,True,False,False,False,False,False,16,3,False,False
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,Scifi,True,True,False,False,False,False,True,True,True,True,True,True,True,True,False,True,True,True,True,True,True,False,True,False,False,False,71,11,True,False
+Dune (Dune #1),54.86,Scifi,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,14,3,True,False
+Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,Scifi,True,True,True,False,False,True,True,False,True,True,True,True,True,True,True,True,False,True,False,True,True,False,True,False,True,False,54,9,True,False
+Three Wishes (River of Time: California #1),44.18,Scifi,True,True,False,True,False,False,True,False,True,True,True,True,True,True,True,True,False,False,False,True,True,False,True,False,True,False,43,7,True,True
+The Last Girl (The Dominion Trilogy #1),36.26,Scifi,True,True,False,False,False,False,True,False,True,True,False,True,True,True,True,True,True,False,True,True,True,False,False,False,True,False,39,7,True,False
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,Scifi,True,True,True,False,False,True,False,False,True,True,True,True,True,True,False,True,True,False,True,True,True,False,False,False,False,False,56,8,True,False
